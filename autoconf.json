@@ -22,6 +22,15 @@
         "title": "Admin Cover",
         "filename_download": "admincover"
       }
+    },
+    {
+      "uri": "https://raw.githubusercontent.com/kesslerdev/directus-autoconf/main/logo.svg",
+      "body": {
+        "id": "a97bd47e-5f88-4f4d-91ed-da2ad0e20fc7",
+        "folder": "309118ca-5036-4a76-a7ef-154ab3d16795",
+        "title": "Logo",
+        "filename_download": "logo"
+      }
     }
   ],
   "settings": {
@@ -33,6 +42,8 @@
     "auth_password_policy": "/(?=^.{8,}$)(?=.*\\d)(?=.*[a-z])(?=.*[A-Z])(?=.*[!@#$%^&*()_+}{';'?>.<,])(?!.*\\s).*$/",
     "auth_login_attempts": 5,
     "storage_default_folder": "1972862c-05fe-4ed7-b273-c14f4ad79690",
-    "public_background": "a2194036-f0e4-4de4-acbc-131daa0a5b5e"
+    "public_background": "a2194036-f0e4-4de4-acbc-131daa0a5b5e",
+    "project_logo": "a97bd47e-5f88-4f4d-91ed-da2ad0e20fc7",
+    "public_foreground": "a97bd47e-5f88-4f4d-91ed-da2ad0e20fc7"
   }
 }
