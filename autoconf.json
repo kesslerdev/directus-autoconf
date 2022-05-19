@@ -1,0 +1,38 @@
+{
+  "folders": [
+    {
+      "id": "309118ca-5036-4a76-a7ef-154ab3d16795",
+      "name": "Image de Marque"
+    },
+    {
+      "id": "95032612-160b-4499-84b4-0d1601cd9cfa",
+      "name": "Utilisateurs"
+    },
+    {
+      "id": "1972862c-05fe-4ed7-b273-c14f4ad79690",
+      "name": "À Classer"
+    }
+  ],
+  "uploadFiles": [
+    {
+      "uri": "https://unsplash.com/photos/01_igFr7hd4/download?ixid=MnwxMjA3fDB8MXxzZWFyY2h8NHx8bmF0dXJlfGVufDB8fHx8MTY1Mjk3MDExMg&force=true&w=2400",
+      "body": {
+        "id": "a2194036-f0e4-4de4-acbc-131daa0a5b5e",
+        "folder": "309118ca-5036-4a76-a7ef-154ab3d16795",
+        "title": "Admin Cover",
+        "filename_download": "admincover"
+      }
+    }
+  ],
+  "settings": {
+    "default_language": "fr-FR",
+    "project_color": "#80CBC4",
+    "project_name": "Kessler's Workshop",
+    "project_descriptor": "Kessler's Workshop Personal Site",
+    "public_note": "Gestion de votre site internet",
+    "auth_password_policy": "/(?=^.{8,}$)(?=.*\\d)(?=.*[a-z])(?=.*[A-Z])(?=.*[!@#$%^&*()_+}{';'?>.<,])(?!.*\\s).*$/",
+    "auth_login_attempts": 5,
+    "storage_default_folder": "1972862c-05fe-4ed7-b273-c14f4ad79690",
+    "public_background": "a2194036-f0e4-4de4-acbc-131daa0a5b5e"
+  }
+}
